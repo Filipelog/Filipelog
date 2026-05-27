@@ -23,7 +23,7 @@
   
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mary9998&theme=radical"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Filipelog&theme=radical"/>
 </div>
   <br>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nestjs,py,c,cpp,arch,linux,windows&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,c,cpp,nodejs,windows&perline=12" />
   </a>
 </p>
 
@@ -66,17 +66,17 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=c78ee6)](mailto:cordeiromarina737@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=c78ee6)](https://www.instagram.com/cordeiro_.mariana/)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=c78ee6)](https://discord.gg/1213879621364219976)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=c78ee6)](https://www.linkedin.com/in/marinamarianacordeiro/)
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=c78ee6)](mailto:Filipeoliveiradv0@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=c78ee6)](https://www.instagram.com/filipedev0/)
+  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=c78ee6)](https://discord.gg/rzEUNQ5g)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=c78ee6)](https://www.linkedin.com/in/filipe-oliveira-b6891a344/)
   
 </div
 
 
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Mary9998&style=flat-square&color=c78ee6" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Filipelog&style=flat-square&color=c78ee6" /></p> 
 </div>
 
 
@@ -86,7 +86,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 </div>
 
