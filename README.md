@@ -16,22 +16,22 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Lip-36ADA3" />
+
+  # 📊 GitHub Stats:
 </div>
 
 <div align="center">
-  
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Filipelog&theme=radical"/>
-</div>
-  <br>
 
+![](https://github-readme-stats.shion.dev/api?username=Filipelog&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/><br/><br/>
+![](https://streak-stats.demolab.com/?user=Filipelog&theme=city_lights&hide_border=false)<br/><br/> <br/> 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Filipelog&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,c,cpp,nodejs,windows&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,c,cpp,nodejs,figma,git,github,&perline=12" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=294669)](mailto:Filipeoliveiradv0@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=294669)](https://www.instagram.com/filipedev0/)
+  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=294669)](https://www.instagram.com/[filipedev0](https://discord.gg/rzEUNQ5g)/)
   [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=294669)](https://discord.gg/rzEUNQ5g)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=294669)](https://www.linkedin.com/in/filipe-oliveira-b6891a344/)
   
@@ -91,3 +91,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F578A&height=120&section=footer"/>
+
+
