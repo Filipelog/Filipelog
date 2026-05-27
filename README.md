@@ -23,7 +23,7 @@
   
   <br>
   <br>
-  <img align="center" alt="Top Language" src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Filipelog&theme=radical"/>
 </div>
   <br>
 
