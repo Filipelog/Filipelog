@@ -1,22 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#400e61v&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=121358&height=120&section=header"/>
  
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>`PROGRAMADOR`</b>
   <samp>
       <br>
       Hi there! I'm <b>Filipe oliveira</b>
   </samp>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=85609c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Filipe+de+Jesus+Oliveira;I+study+Software+Engineering;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F578A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Filipe+de+Jesus+Oliveira;I+study+Software+Engineering;Be+Welcome!)](https://git.io/typing-svg) 
 
 <br>
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Lip-purple" />
+  <img src="https://img.shields.io/badge/Lip-36ADA3" />
 </div>
 
 <div align="center">
@@ -66,17 +66,17 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=c78ee6)](mailto:Filipeoliveiradv0@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=c78ee6)](https://www.instagram.com/filipedev0/)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=c78ee6)](https://discord.gg/rzEUNQ5g)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=c78ee6)](https://www.linkedin.com/in/filipe-oliveira-b6891a344/)
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=294669)](mailto:Filipeoliveiradv0@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=294669)](https://www.instagram.com/filipedev0/)
+  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=294669)](https://discord.gg/rzEUNQ5g)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=294669)](https://www.linkedin.com/in/filipe-oliveira-b6891a344/)
   
 </div
 
 
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Filipelog&style=flat-square&color=c78ee6" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Filipelog&style=flat-square&color=294669" /></p> 
 </div>
 
 
@@ -90,4 +90,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da29bb&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F578A&height=120&section=footer"/>
